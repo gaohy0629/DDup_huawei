@@ -1,0 +1,16 @@
+公益课程：
+1、全屏播放课程
+2、题目第一页
+3、答题卡位置提示页面
+4、答题卡详情页
+
+#appium log
+shell命令
+WebDriver请求
+ChromeDriver日志
+
+#未知adb命令排错
+
+# 执行case过程中 ，等价于执行getpagesource查看当前页面
+http://127.0.0.1:4723/wd/hub/session/67c36244-84b4-4a40-9401-13b943b59aaf/source
+
